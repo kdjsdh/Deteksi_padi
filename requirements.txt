@@ -5,3 +5,7 @@ pandas
 StandardScaler
 matplotlib
 
+# Dependencies to be installed via the system package manager:
+# libgl1-mesa-glx, libglib2.0-0
+
+
