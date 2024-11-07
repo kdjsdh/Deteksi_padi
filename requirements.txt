@@ -1,5 +1,5 @@
-streamlit==1.25.0
-opencv-python==4.8.0.76
+streamlit
+opencv-python
 numpy
 pandas
 StandardScaler
