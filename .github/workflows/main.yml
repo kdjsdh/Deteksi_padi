@@ -25,6 +25,6 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    - name: try.py
+    - name: Run the script
       run: |
-        python try.py
+        python your_script.py
